@@ -1,0 +1,168 @@
+
+        #email{
+            float: left;
+            position: relative;
+            margin-block-end: 5%;
+        }
+        #message{
+            color: black;
+
+        }
+
+        html{
+            background-image: url('image.jpg.jpg');
+            background-repeat: no-repeat; 
+           background-size: cover;
+            
+                }
+        .border{
+            width: 700px;
+            height: 400px;
+            text-align: center;
+            background: rgba(83, 83, 83, 0.4);
+            border-radius: 5px;
+            padding: 5px;
+            position: relative;
+            /* left: 500px; */
+            /* margin-top: -450px; */
+            float: left;
+        }
+        .info{
+            width: 450px;
+            height: 400px;
+            text-align: center;
+            background: rgba(83, 52, 186, 0.4);
+            border-radius: 5px;
+            padding: 5px;
+            position: relative;
+            /* left: 500px; */
+            /* margin-top: -450px; */
+            float: left;
+            position: relative;
+            left: 20px;
+            bottom: 40px;
+
+        }
+        #request{
+            position: relative;
+            right: 35%;
+        }
+         #name  {
+            right: 33%;
+            position: relative;
+            bottom: 15px;
+            width:30%;
+           /* border: none; */
+           background-color: transparent;
+           border-top: 0px solid;
+           border-left: 0px solid;
+           border-right: 0px solid;
+           outline: none;
+
+        }
+        #name1{
+            right: 317px;
+            position: relative;
+        }
+        #phone{
+            background-color: transparent;
+           border-top: 0px solid;
+           border-left: 0px solid;
+           border-right: 0px solid;
+           outline: none; 
+           width:30%;
+           position: relative;
+           bottom: 102px;
+           left: 80px;
+
+        }
+        input {
+            color: white;
+        }
+        #email{
+            background-color: transparent;
+           border-top: 0px solid;
+           border-left: 0px solid;
+           border-right: 0px solid;
+           outline: none; 
+           width:30%;
+           position: relative;
+           left: 12px;
+        }
+        #email1{
+            position: relative;
+            right: 315px;
+        }
+        #phone1{
+            position: relative;
+            bottom: 88px;
+        }
+        #yourrequest{
+            background-color: transparent;
+           border-top: 0px solid;
+           border-left: 0px solid;
+           border-right: 0px solid;
+           outline: none; 
+           width:30%;
+           position: relative;
+           bottom: 64px;
+           left: 75px;
+        }
+        #yourrequest1{
+            position: relative;
+            bottom: 61px;
+            right: 97px;
+        }
+        #y
+
+       
+        #name1{
+            right: 45%;
+            position: relative;
+            top: 5px;
+        }
+        #submit{
+            position: relative;
+            top: 350px;
+            right: 120px;
+            padding: 10px;
+            width: 100px;
+            border-radius: 20px;
+            background-color: transparent;
+            color: white;
+            border-color: rgb(158, 158, 240);
+
+        }
+        #submit:hover{
+            background-color: rgb(1, 101, 101);
+        }
+        #eicon{
+                      position: relative;
+                      right: 100px;
+                      top: 35px;
+        }
+        #picon{
+            position: relative;
+                      right: 70px;
+                      top: 35px;
+        }
+        .heading{
+            width: 300px;
+            height: 120px;
+            text-align: center;
+            background: transparent;
+            border-radius: 5000px;
+            padding: 0px;
+            background-image: url('image.jpg.jpg');
+            background-repeat: no-repeat; 
+           background-size: cover;  
+        
+        }
+/* 
+           #over{
+            background-color: black;
+            overflow: visible;
+            height: 50px;
+           } */
+       
+    
